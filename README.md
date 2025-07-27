@@ -6,7 +6,7 @@ Welcome to **ReddyChips** — where hardware meets intelligence. We specialize i
 
 ---
 
-🚀 Our Expertise:
+### 🚀 Our Expertise:
 - STM32, ESP32, ARM Cortex-A/M series, AVR, and bare-metal embedded systems
 - Real-time operating systems (RTOS) and communication protocols
 - Custom hardware design, schematic capture, and PCB layout
@@ -40,13 +40,6 @@ We build smart embedded solutions — from idea to product.
 ---
 
 ### 🧠 Projects In Progress
-
-Check out our repos for:
-- 🔋 Ultra-low-power sensor nodes with hibernation and wake-up strategies
-- 💡 NOR Flash-based firmware storage and persistent data management
-- 📡 OTA update architecture for embedded systems
-- 🧪 Calibration & SD card frameworks
-- 📲 BLE-enabled device firmware
 
 Check out our repos for:
 - 📡 OTA update architecture for embedded systems
