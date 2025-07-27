@@ -1,8 +1,8 @@
-# ReddyChips 👋 
+# Welcome to ReddyChips 👋
 
 **Innovating Embedded Systems. Building Smart Products.**
 
-Welcome to **ReddyChips** — where hardware meets intelligence. We specialize in embedded development, firmware engineering, and scalable system design for real-world products.
+**ReddyChips** — where hardware meets intelligence. We specialize in embedded development, firmware engineering, and scalable system design for real-world products.
 
 ---
 
