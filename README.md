@@ -1,4 +1,4 @@
-# ReddyChips
+# ReddyChips 👋 
 
 **Innovating Embedded Systems. Building Smart Products.**
 
@@ -6,7 +6,16 @@ Welcome to **ReddyChips** — where hardware meets intelligence. We specialize i
 
 ---
 
+🚀 Our Expertise:
+- STM32, ESP32, ARM Cortex-A/M series, AVR, and bare-metal embedded systems
+- Real-time operating systems (RTOS) and communication protocols
+- Custom hardware design, schematic capture, and PCB layout
+- IoT development, automation systems, and full-cycle product prototyping
+
+
 ### 🔧 What We Do
+
+We build smart embedded solutions — from idea to product.
 
 - 🛠️ **Embedded Firmware Development**
   - STM32 | ESP32 | AVR | ARM Cortex
